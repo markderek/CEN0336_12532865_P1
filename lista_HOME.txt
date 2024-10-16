@@ -1,0 +1,26 @@
+total 19000
+drwxr-xr-x     9 markkevin  staff      288 Aug 10 11:44 Ant-object-detection-1
+drwx------@    9 markkevin  staff      288 Jul 30 12:53 Applications
+drwxr-xr-x@    3 markkevin  staff       96 Dec  6  2023 Applications (Parallels)
+drwxr-xr-x     2 markkevin  staff       64 Jun 28 11:08 Arduino Pyhton build 28:06:24
+drwx--x--x@  137 markkevin  staff     4384 Oct 16 14:35 Desktop
+drwx------@   28 markkevin  staff      896 Oct 12 12:31 Documents
+drwx------@ 2112 markkevin  staff    67584 Oct 16 16:40 Downloads
+drwx------@  111 markkevin  staff     3552 Aug  4 23:13 Library
+drwx------    10 markkevin  staff      320 Dec  6  2023 Movies
+drwx------+    9 markkevin  staff      288 Dec  6  2023 Music
+lrwxr-xr-x     1 markkevin  staff       55 May 11 19:55 OneDrive -> /Users/markkevin/Library/CloudStorage/OneDrive-Personal
+drwx------+    8 markkevin  staff      256 May 29 01:20 Pictures
+drwxr-xr-x+    4 markkevin  staff      128 Jan 27  2023 Public
+drwxr-xr-x@   17 markkevin  staff      544 Mar 20  2024 Qt
+-rw-r--r--     1 markkevin  staff      937 Jun 24 18:04 RecebeInfoArduino.spec
+-rw-r--r--@    1 markkevin  staff  3158713 Mar 27  2024 SRD_CC_v5.1.pdf
+drwxr-xr-x     9 markkevin  staff      288 Aug  1 23:44 Test-project-1
+drwxr-xr-x     5 markkevin  staff      160 Jun 25 08:36 Teste_Aplicativo
+-rw-r--r--@    1 markkevin  staff       20 Jun 22 17:49 example.csv
+drwxr-xr-x    22 markkevin  staff      704 Sep 13 11:03 formigas
+drwxr-xr-x     7 markkevin  staff      224 Jun 24 18:10 myenv
+drwxr-xr-x     4 markkevin  staff      128 May  3 13:44 path
+drwxr-xr-x     8 markkevin  staff      256 Jun 24 18:10 tk-0.1.0
+-rw-r--r--     1 markkevin  staff     2247 Jun 20 11:38 tk.tar.gz
+-rw-r--r--     1 markkevin  staff  6549796 Sep 13 11:22 yolov8n.pt
