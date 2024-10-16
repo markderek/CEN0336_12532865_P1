@@ -11,6 +11,3 @@ ls -l ~ > lista_HOME.txt
 # Comando que mostre a pasta/diretório onde você está
 printf "\033[0;34mData e tempo:	\033[0m\n"
 date
-
-
-/Users/markkevin/CEN0336_12532865_P1/bash_script.sh
